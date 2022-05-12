@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LADM_U3_Practica2_CristianVillagrana</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Inventario</string>
+    <string name="menu_slideshow">Asignación</string>
+
+    <string-array name="inventariospinner">
+        <item>Tipo Equipo</item>
+        <item>Características</item>
+        <item>Fecha</item>
+        <item>Todo</item>
+    </string-array>
+
+    <string-array name="asignacionspinner">
+        <item>Nombre del Empleado</item>
+        <item>Fecha de Asignación</item>
+        <item>Area de Trabajo</item>
+        <item>Todo</item>
+    </string-array>
+</resources>

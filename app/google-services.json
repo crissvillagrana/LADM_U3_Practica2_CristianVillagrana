@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305678196882",
+    "project_id": "practica2unidad3-e8858",
+    "storage_bucket": "practica2unidad3-e8858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305678196882:android:e499e5274c373e8c8b064b",
+        "android_client_info": {
+          "package_name": "mx.edu.ladm_u3_practica2_cristianvillagrana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305678196882-0qv5clg7b0mqbfe8n8qkfu2j7trh41i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkmhudT2vVwmxkDIrLsuwhNwDDoF7Kso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305678196882-0qv5clg7b0mqbfe8n8qkfu2j7trh41i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
